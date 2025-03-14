@@ -1,0 +1,32 @@
+Estado de Cuenta:
+
+ID: 1
+Descripción: Compra en Am Pm
+Monto de contado: $5,000.00
+Monto con intereses (2.6%): $5,130.00
+Cashback (0.1%): $5.00
+Monto final a pagar: $5,125.00
+
+ID: 2
+Descripción: Compra en restaurante
+Monto de contado: $20,000.00
+Monto con intereses (2.6%): $20,520.00
+Cashback (0.1%): $20.00
+Monto final a pagar: $20,500.00
+
+ID: 03
+Descripción: Compra en Am Pm
+Monto de contado: $15,000.00
+Monto con intereses (2.6%): $15,390.00
+Cashback (0.1%): $15.00
+Monto final a pagar: $15,375.00
+
+ID: 04
+Descripción: compra en vindi
+Monto de contado: $25,000.00
+Monto con intereses (2.6%): $25,650.00
+Cashback (0.1%): $25.00
+Monto final a pagar: $25,625.00
+
+Monto Total (Contado): $65,000.00
+Monto Total con intereses (2.6%): $66,690.00
